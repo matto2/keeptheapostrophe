@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: 
+
+https://keeptheapostrophe.com/sitemap.xml
